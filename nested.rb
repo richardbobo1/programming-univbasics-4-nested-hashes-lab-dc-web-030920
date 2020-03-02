@@ -97,7 +97,6 @@ def adding_matz
         }
      }
   
-programmer_hash.insert(0, :adding_matz = {})
 
 
 end
