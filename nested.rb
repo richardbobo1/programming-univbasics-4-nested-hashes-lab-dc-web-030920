@@ -97,7 +97,7 @@ def adding_matz
         }
      }
   
-
+person.insert(1, 'paul')
    
      programmer_hash[:adding_matz] = :yukihiro_matsumoto => {:known_for => "Ruby", :languages => ["LISP", "C"]
        
